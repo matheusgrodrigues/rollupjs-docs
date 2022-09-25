@@ -1,0 +1,22 @@
+{
+  "name": "rollupjs-docs",
+  "version": "1.0.0",
+  "description": "Leitura da documentação do Rollup.js para criação de libs npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusgrodrigues/rollupjs-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusgrodrigues/rollupjs-docs/issues"
+  },
+  "homepage": "https://github.com/matheusgrodrigues/rollupjs-docs#readme",
+  "dependencies": {
+    "@rollup/plugin-typescript": "^8.5.0"
+  }
+}
