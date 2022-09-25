@@ -3,6 +3,9 @@
 Leitura da documentação do Rollup.js para criação de libs npm
 
 - [Introduction](#overview)
+- [Porque utilizar](#porque-utilizar)
+- [Interface de linha de comando](#interface-de-linha-de-comando)
+- [Arquivos de configuração](#arquivos-de-configuracao)
 
 ## Overview
 
